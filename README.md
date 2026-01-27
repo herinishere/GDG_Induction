@@ -1,4 +1,4 @@
-#PS1-TASK1:
+# PS1-TASK1:
 # Stock Price Prediction Using CNN (Conv1D)
 
 ## 📌 Overview
@@ -87,7 +87,7 @@ These visualizations help evaluate prediction accuracy and uncertainty.
 
 
 
-#PS1-TASK2:
+# PS1-TASK2:
 # Stock Market News Analysis Agent using RAG (LangChain + Groq)
 
 ## 📌 Overview
