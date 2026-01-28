@@ -172,8 +172,12 @@ The prompt enforces:
 - No external knowledge or speculation
 
   ---
+## ▶️ How to Run on Your Device
 
-  ## How to run in your device
+### 🔑 Step 1: Add Your Groq API Key
 
-  os.environ["GROQ_API_KEY"] = "API_KEY"
-  In place of API_KEY paste yout Groq API key.
+Locate the following line in the code:
+
+```python
+os.environ["GROQ_API_KEY"] = "API_KEY"
+
