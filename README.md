@@ -170,3 +170,10 @@ The prompt enforces:
 - Strict grounding in retrieved context
 - Clear, factual explanations
 - No external knowledge or speculation
+
+  ---
+
+  ## How to run in your device
+
+  os.environ["GROQ_API_KEY"] = "API_KEY"
+  In place of API_KEY paste yout Groq API key.
